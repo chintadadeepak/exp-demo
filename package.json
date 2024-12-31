@@ -1,0 +1,20 @@
+{
+  "name": "exp-demo",
+  "version": "1.0.0",
+  "description": "project to explore express framework",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "express",
+    "backend"
+  ],
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "npm": "^11.0.0"
+  }
+}
